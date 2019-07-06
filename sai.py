@@ -1,3 +1,3 @@
 #reverse string
-s=str(input())
-print(s[::-1])
+t=str(input())
+print(t[::-1])
