@@ -1,6 +1,6 @@
-t1=input()
-t2=['Saturday','Sunday']
-if t1 in t2:
+s1=input()
+s2=['Saturday','Sunday']
+if s1 in s2:
    print("yes")
-else:
-   print("no")
+   else:
+      print("no")
